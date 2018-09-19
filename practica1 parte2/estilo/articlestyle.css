@@ -1,0 +1,18 @@
+.articulo{
+    column-count: 2;
+    column-width: max-content;
+    column-gap: 50px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: black;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
